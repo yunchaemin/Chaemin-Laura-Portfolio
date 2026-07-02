@@ -1,0 +1,6 @@
+{
+  "name": "Chaemin Yun Portfolio",
+  "description": "Premium, highly polished, and responsive portfolio for Chaemin Yun, a Marketing & Project Management Coordinator. Includes full-screen immersive slideshow, custom animated about page, services catalog, interactive case studies with sticky columns, and a draggable scattered gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
